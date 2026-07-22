@@ -6,17 +6,16 @@ I'm an Automation Application Engineer working in high-volume electronics manufa
 
 I work with production processes, automation, machine performance, and data-driven problem solving. I'm currently expanding my skills in Python, SQL, data analytics, AI, and software development through hands-on projects.
 
----
-
 ## 🚀 Featured Projects
 
 ### 🎙️ PronounceAI
 
-AI-powered English pronunciation assessment web application that analyzes uploaded audio and provides pronunciation scores, feedback, and improvement suggestions.
+An AI-powered English pronunciation assessment web application that analyzes uploaded audio and provides pronunciation scores, feedback, and improvement suggestions.
 
 **Tech Stack:** Python · FastAPI · React · Faster-Whisper · FFmpeg
 
-🔗 [View Repository](https://github.com/Yugandhar-code/Pronounce-AI)
+🔗 [View Repository](https://github.com/Yugandhar-code/Pronounce-AI)  
+🌐 [Live Demo](https://pronounce-ai-nine.vercel.app/)
 
 ---
 
