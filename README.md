@@ -20,11 +20,11 @@ AI-powered English pronunciation assessment web application that analyzes upload
 
 ---
 
-### 📊 Manufacturing Performance Analytics Dashboard
+### 📊 HR Analytics Dashboard
 
-Interactive Tableau dashboard designed to monitor manufacturing performance through KPIs such as production output, machine utilization, downtime, defect rates, and OEE.
+Interactive Tableau dashboard designed to analyze employee data and provide insights into workforce trends, employee demographics, performance, and HR-related KPIs.
 
-**Tech Stack:** Tableau · Microsoft Excel
+**Tech Stack:** Tableau · MySQL · Microsoft Excel 
 
 🔗 [View Repository](https://github.com/Yugandhar-code/HR-Analytics-Dashboard-)
 
