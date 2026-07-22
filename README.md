@@ -55,23 +55,23 @@ Interactive Tableau dashboard designed to analyze employee data and provide insi
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Python
-- SQL
-- Data Structures & Algorithms
-- Data Engineering
-- Data Analytics
-- AI-powered Applications
-
----
-
 ## 🎯 Career Focus
 
-I'm interested in opportunities where I can combine my experience in manufacturing and automation with my growing skills in:
+I'm interested in opportunities where I can combine my experience in automation and manufacturing with my growing skills in technology and data.
+
+My current focus areas include:
 
 **Data Analytics · Data Engineering · Python Development · AI Applications**
 
+---
+
+## 📚 Currently Learning
+
+- 🐍 Advanced Python
+- 🗄️ SQL & Database Design
+- ⚙️ Data Engineering
+- 🧠 Data Structures & Algorithms
+- 🤖 AI-powered Applications
 ---
 
 ## 📫 Connect With Me
