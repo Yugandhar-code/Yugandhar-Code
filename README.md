@@ -67,9 +67,9 @@ I'm interested in opportunities where I can combine my experience in manufacturi
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: musalamadugu.yugandhar@gmail.com
 
-💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/yugandhar93/)
 
 ---
 
