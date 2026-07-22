@@ -30,19 +30,29 @@ Interactive Tableau dashboard designed to analyze employee data and provide insi
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Programming:** Python · SQL
+### 💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Data & Analytics:** Pandas · NumPy · Tableau · Microsoft Excel · JMP
+### 🌐 Web Development & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-**AI & Machine Learning:** Faster-Whisper
+### 📊 Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![JMP](https://img.shields.io/badge/JMP-005C8A?style=for-the-badge)
 
-**Web Development:** FastAPI · React
-
-**Tools & Platforms:** Git · GitHub · FFmpeg · Vercel · Render
-
-**Manufacturing & Quality:** Process Monitoring · Quality Assurance · Quality Control · Data Validation
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
